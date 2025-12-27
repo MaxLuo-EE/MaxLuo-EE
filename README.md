@@ -1,7 +1,7 @@
 # Hi, I'm Max 👋
 
 ### 3rd Year Electrical Engineering Student | Sydney, Australia
-I am a dedicated Electrical Engineering student at [Your University Name] with a strong interest in **Power Systems, Energy Infrastructure, and Hardware Design.** I am currently seeking internship opportunities to apply my technical skills to the Australian energy transition.
+I am a dedicated Electrical Engineering student at UNSW with a strong interest in **Power Systems, Energy Infrastructure, and Hardware Design.** I am currently seeking internship opportunities to apply my technical skills to the Australian energy transition.
 
 ---
 
